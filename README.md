@@ -8,3 +8,5 @@
 
 [Funciones](https://github.com/Orlanndo98/API_PHP/blob/main/API_2/utilidades.php)
 
+[BDD en SQL](https://github.com/Orlanndo98/API_PHP/blob/main/API_2/api.sql)
+
